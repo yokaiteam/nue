@@ -1,5 +1,5 @@
 # Nue
-### A Yokai specific Drupal Theme Generator 
+### Yokai specific Drupal Theme Generator 
 
 A [Yeoman](http://yeoman.io) generator based on [Generator Drupal Theme](https://github.com/frontend-united/generator-drupal-theme)
 
